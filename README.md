@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://github.com/kaliberda97/kaliberda97/blob/main/main.png" align="center" style="width: 100%" />
+<div class="center">
+<img src="https://github.com/kaliberda97/kaliberda97/blob/main/main.png" class="center" style="width: 100%" />
 </div>  
   
 
@@ -21,7 +21,6 @@ Full-Stack Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kaliberda97" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/viktoriia-kaliberda-700b5a283/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
