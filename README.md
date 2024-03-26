@@ -1,5 +1,8 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Viktoriia Kaliberda</
-==========================================================================================================================================
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi!">
+  <p>I'm Viktoriia Kaliberda.</p>
+</div>
+<hr>
 <h2 align="center"> 👩🏼‍💻 I'm Full-Stack Web Developer </h2>
 
 
