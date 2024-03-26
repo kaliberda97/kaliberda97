@@ -1,9 +1,9 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Viktoriia Kaliberda
-
-<hr>
+==========================================================================================================================================
 
 I'm Full-Stack Web Developer 💻
 --------------------
+
 - :books: I'm currently a student at DCI Berlin and study web development
 
 - :round_pushpin: I'm based in Berlin, Germany 🇩🇪
