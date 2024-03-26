@@ -1,13 +1,14 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Viktoriia Kaliberda
-==========================================================================================================================================
+
+<hr>
 
 I'm Full-Stack Web Developer 💻
 --------------------
+- :books: I'm currently a student at DCI Berlin and study web development
 
-I am currently a student at DCI Berlin and study web development
-I'm based in Berlin, Germany 🇩🇪
-I study and make projects using React, JavaScript, Next.js, Vue.js, CSS, HTML, Sass, Tailwind CSS, Vite.js, Node.js.
+- :round_pushpin: I'm based in Berlin, Germany 🇩🇪
 
+- :zap: I study and make projects using React, JavaScript, Next.js, Vue.js, CSS, HTML, Sass, Tailwind CSS, Vite.js, Node.js.
 
 ### Skills
 
@@ -21,8 +22,9 @@ I study and make projects using React, JavaScript, Next.js, Vue.js, CSS, HTML, S
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/viktoriia-kaliberda-700b5a283/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
+
+<hr>
 
 <b>My GitHub Stats</b>
 
